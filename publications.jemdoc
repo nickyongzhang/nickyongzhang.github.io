@@ -1,22 +1,22 @@
 # jemdoc: menu{MENU}{publications.html}
-= Jinming Xu -- Publications
+= Yong Zhang -- Publications
 
 == Journal Papers
-- (J1) *Jinming Xu* and Yeng Chai Soh, “/[http://www.sciencedirect.com/science/article/pii/S0005109816302369 A Distributed Simultaneous Perturbation Approach for Large-scale Dynamic Optimization Problems]/ ,” Automatica 72 (2016): 194-204 (Regular).\n
-- (J2) *Jinming Xu*, Shanying Zhu, Yeng Chai Soh and Lihua Xie, “/A Bregman Splitting Algorithm for Distributed Optimization Problems over Networks/,” submitted to IEEE Transactions on Signal Processing (revised and resubmitted, arxiv).\n
-- (J3) *Jinming Xu*, Shanying Zhu, Yeng Chai Soh and Lihua Xie,“/Convergence of Asynchronous Distributed Gradient Methods over Stochastic Networks/,” submitted to IEEE Transactions on Automatic Control.\n
-- (J4) Zhenghua Chen , *Jinming Xu*, Yeng Chai Soh, “/[http://www.sciencedirect.com/science/article/pii/S0378778815300438 Modeling Regular Occupancy in Commercial Buildings Using Stochastic Models]/,” Energy and Buildings 103 (2015): 216-223.\n
+- (J1) *Yong ZHANG*, Meng Joo ER, Rui ZHAO and Mahardhika PRATAMA, "/Multi-view Convolutional Neural Networks for Multi-document Extractive Summarization/", Cybernetics, IEEE Transactions on, 99(2016): 1-13, doi: 10.1109/TCYB.2016.2628402.\n
+- (J2) Meng Joo ER, *Yong ZHANG*, Ning WANG and Mahardhika PRATAMA. "/Attention Pooling-based Convolutional Neural Network for Sentence Modelling/", Information Science, 373(2016): 388-403. (corresponding author)\n
+- (J3) *Yong ZHANG* and Meng Joo ER. "/Sequential active learning using meta-cognitive extreme learning machine/", Neurocomputing, 173(2016): 835-844.\n
 
 == Conference Proceedings
 
-- (C1) *Jinming Xu*, Shanying Zhu, Yeng Chai Soh and Lihua Xie, “/A Forward-Backward Bregman Splitting Scheme for Regularized Distributed Optimization Problems/,” accepted by 55th IEEE Conference on Decision and Control (CDC), 2016.
-- (C2) *Jinming Xu*, Shanying Zhu, Yeng Chai Soh and Lihua Xie, “/Augmented Distributed Gradient Methods for Multi-agent Optimization under Uncoordinated Constant Stepsizes/,” In Proceedings of 54th IEEE Conference on Decision and Control (CDC), 2015.
-- (C3) *Jinming Xu* and Yeng Chai Soh, “/Distributed Extremum Seeking Control of Networked Large-scale Systems under Constraints/,” In Proceedings of 52nd IEEE Conference on Decision and Control (CDC), 2013.
-- (C4) Shanying Zhu, *Jinming Xu*, Cailian Chen and Xinping Guan, “/A Least Square Approach for Distributed Sensor Fusion in Bandwidth-constrained Sensor Networks/,” In Proceedings of 41st International IEEE Conference on Acoustics,Speech and SignalProcessing (ICASSP), 2016.
+- (C1) *Yong ZHANG*, Meng Joo ER, Ning WANG and Mahardhika PRATAMA, "Sentiment Classification Using Comprehensive Attention Recurrent Models", in Proceedings of International Joint Conference on Neural Networks (IJCNN), Canada, 2016:1562-1569.\n
+- (C2) *Yong ZHANG*, Meng Joo ER, "An Extracted Document Summarization Framework Based on Convolutional Neural Networks", in Proceedings of 42nd Annual Conference of IEEE Industrial Electronics Society (IECON), Florence, 2016: 918- 922.\n
+- (C3) *Yong ZHANG*, Meng Joo ER and Rui ZHAO, "/Multi-document Extractive Summarization Using Word Embedding based Extreme Learning Machine/", in Proceedings of Computational Intelligence, IEEE Symposium Series on, South Africa, 2015: 404-410.\n
+- (C4) *Yong ZHANG*, Meng Joo ER, Sundaram SURESH. "Meta-cognitive fuzzy extreme learning machine", in Proceedings of Control Automation Robotics & Vision (ICARCV), 13th International Conference on. IEEE, Singapore, 2014: 613-618.
 
-== Thesis
-Jinming Xu, ``/Augmented Distributed Optimization for Networked Systems/,'' PhD thesis, Nanyang Technological University, 2016
+== Book Chapters
+- (B1) Meng Joo ER, Fan LIU, Yong ZHANG, Ning WANG and Mahardhika PRATAMA, "User-level Twitter Sentiment Analysis with a Hybrid Approach", in Advances in Neural Networks – ISNN, Springer, 2016, pp. 426-433.\n
+- (B2) Meng Joo ER and Yong ZHANG, "Adaptive Modelling and Intelligent Control of a Sodium Nitroprusside (SNP) Delivery System", Artificial Neural Network for Drug Design, Delivery and Disposition , Elsevier, 2015, pp. 333-354.
 
 ~~~
-Please feel free to [xuji0016@e.ntu.edu.sg contact me] should you be interested in my research.
+Please feel free to [yzhang067@e.ntu.edu.sg contact me].
 ~~~
