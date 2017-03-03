@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{publications.html}
+= Jinming Xu -- Publications
+
+== Journal Papers
+- (J1) *Jinming Xu* and Yeng Chai Soh, “/[http://www.sciencedirect.com/science/article/pii/S0005109816302369 A Distributed Simultaneous Perturbation Approach for Large-scale Dynamic Optimization Problems]/ ,” Automatica 72 (2016): 194-204 (Regular).\n
+- (J2) *Jinming Xu*, Shanying Zhu, Yeng Chai Soh and Lihua Xie, “/A Bregman Splitting Algorithm for Distributed Optimization Problems over Networks/,” submitted to IEEE Transactions on Signal Processing (revised and resubmitted, arxiv).\n
+- (J3) *Jinming Xu*, Shanying Zhu, Yeng Chai Soh and Lihua Xie,“/Convergence of Asynchronous Distributed Gradient Methods over Stochastic Networks/,” submitted to IEEE Transactions on Automatic Control.\n
+- (J4) Zhenghua Chen , *Jinming Xu*, Yeng Chai Soh, “/[http://www.sciencedirect.com/science/article/pii/S0378778815300438 Modeling Regular Occupancy in Commercial Buildings Using Stochastic Models]/,” Energy and Buildings 103 (2015): 216-223.\n
+
+== Conference Proceedings
+
+- (C1) *Jinming Xu*, Shanying Zhu, Yeng Chai Soh and Lihua Xie, “/A Forward-Backward Bregman Splitting Scheme for Regularized Distributed Optimization Problems/,” accepted by 55th IEEE Conference on Decision and Control (CDC), 2016.
+- (C2) *Jinming Xu*, Shanying Zhu, Yeng Chai Soh and Lihua Xie, “/Augmented Distributed Gradient Methods for Multi-agent Optimization under Uncoordinated Constant Stepsizes/,” In Proceedings of 54th IEEE Conference on Decision and Control (CDC), 2015.
+- (C3) *Jinming Xu* and Yeng Chai Soh, “/Distributed Extremum Seeking Control of Networked Large-scale Systems under Constraints/,” In Proceedings of 52nd IEEE Conference on Decision and Control (CDC), 2013.
+- (C4) Shanying Zhu, *Jinming Xu*, Cailian Chen and Xinping Guan, “/A Least Square Approach for Distributed Sensor Fusion in Bandwidth-constrained Sensor Networks/,” In Proceedings of 41st International IEEE Conference on Acoustics,Speech and SignalProcessing (ICASSP), 2016.
+
+== Thesis
+Jinming Xu, ``/Augmented Distributed Optimization for Networked Systems/,'' PhD thesis, Nanyang Technological University, 2016
+
+~~~
+Please feel free to [xuji0016@e.ntu.edu.sg contact me] should you be interested in my research.
+~~~
