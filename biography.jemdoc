@@ -2,30 +2,30 @@
 = Yong Zhang -- Biography
 
 == Education
-- *PhD Student*, School of ELectrical and Electronic, Nanyang Technological Univeristy, Singapore; GPA – 4.92/5.0, 8\/2013-Present.\n
-- *B.Eng.*, School of Electrical Engineering and Automation, Zhejiang University, China; GPA – 3.88/4.0, 9\/2009-7\/2013.\n
+- 08/2013-07/2017, *PhD Student*, School of ELectrical and Electronic, Nanyang Technological Univeristy, Singapore; GPA – 4.92/5.0, 8\/2013-Present.\n
+- 09/2009-06/2013, *B.Eng.*, School of Electrical Engineering and Automation, Zhejiang University, China; GPA – 3.88/4.0, 9\/2009-7\/2013.\n
 
 == Experience
-- *Research Scientist*, Amazon, Seattle\n
+- 04/2019-Current, *Research Scientist*, Amazon, Seattle\n
 ~~~
 - Owned private brands recommendation at detail pages project. One product of the project contributes ~$70 million annualized Amazon order product sales in US.
 - Owned ads performance models of Amazon internal advertisers. The project enables Amazon private brands products to exit common sponsored product auction so they do not directly compete against external advertisers.
 - Main contributor of private brands recommendation at search pages project. The project contributes over $128 million annualized order product sales in US for Amazon private brands.
 ~~~
 
-- *Data Scientist*, Shopee, Singapore\n
+- 07/2018-03/2019, *Data Scientist*, Shopee, Singapore\n
 ~~~
 - Developed Unique User Identification System - a graph-based identity management system that link accounts belonging to the same person, aimed at fraud detection, credit scoring, marketing, etc.
 - Was in charge of Categorization Recommendation Project - an automatic system making category suggestions to sellers when listing products. The model is deep learning-based and serves up to 2m calls per day in TW market alone.
 ~~~
 
-- *Data Scientist*, GroupM, Singapore\n
+- 07/2017-06/2018, *Data Scientist*, GroupM, Singapore\n
 ~~~
 - Developed mPID in-house solution - the foundational cross-device and cross-platform consumer identity management system that ties individual’s identities across devices into a consumer ID for audience re targeting across all media.
 - Worked on Consumer Insights Project - the bridge connecting research and marketing whose purpose is to understand and interpret non-obvious mindsets, desires, and motivates that trigger consumers’ attitudes and actions towards a brand which aims to enhance marketing effectiveness and increase sales for mutual benefit.
 ~~~
 
-- *PhD researcher*, Nanyang Technological University\n
+- 08/2013-07/2017, *PhD researcher*, Nanyang Technological University, Singapore\n
 ~~~
 Designed and developed several innovative machine learning algorithms for regression and classification with specific applications in natural language processing tasks.
 - Developed an algorithm named Multi-view Convolutional Neural Network and applied to multi-document summarization. The work is published in IEEE Trans. on Cybernetics.
@@ -33,12 +33,12 @@ Designed and developed several innovative machine learning algorithms for regres
 - Designed an active learning model based on extreme learning machine and meta-cognitive learning. The work is published in Neurocomputing.
 ~~~
 
-- *Intern*, GroupM(Largest Media Investment Company across the world)\n
+- 07/2016-12/2016, *Part-time Intern*, GroupM, Singapore\n
 ~~~
 Participated in the Audience Demography Estimation project which uses machine learning models to predict audience demography based on users’ browsing logs for targeted advertising.
 ~~~
 
-- *Teaching Assistant*, Nanyang Technological Univeristy\n
+- 08/2015-12/2015, *Teaching Assistant*, Nanyang Technological Univeristy, Singapore\n
 ~~~
 Performed grading, supervised lab sessions, evaluated final presentations for courses in EEE undergraduate programs in Electric Field, Magnetic Field, Transformer, and Electrical Motor.
 ~~~
