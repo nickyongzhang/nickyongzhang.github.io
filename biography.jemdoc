@@ -2,8 +2,8 @@
 = Yong Zhang -- Biography
 
 == Education
-- *PhD Student*, School of ELectrical and Electronic, Nanyang Technological Univeristy, Singapore; GPA – 4.92/5.0.\n
-- *B.Eng.*, School of Electrical Engineering and Automation, Zhejiang University, China; GPA – 3.88/4.0.\n
+- 08\/2013-07\/2017, *PhD Student*, School of Electrical and Electronic, Nanyang Technological University, Singapore; GPA – 4.92/5.0.\n
+- 09\/2009-06\/2017, *B.Eng.*, School of Electrical Engineering and Automation, Zhejiang University, China; GPA – 3.88/4.0.\n
 
 == Experience
 - 04\/2019-Current, *Research Scientist*, Amazon, Seattle\n
@@ -29,7 +29,7 @@
 ~~~
 Designed and developed several innovative machine learning algorithms for regression and classification with specific applications in natural language processing tasks.
 - Developed an algorithm named Multi-view Convolutional Neural Network and applied to multi-document summarization. The work is published in IEEE Trans. on Cybernetics.
-- Proposed an innovative pooling strategy for Convolutional Neural Network based on attention mechanisim and applied to sentence classification. The work is published in Inforamtion Sciences.
+- Proposed an innovative pooling strategy for Convolutional Neural Network based on attention mechanism and applied to sentence classification. The work is published in Information Sciences.
 - Designed an active learning model based on extreme learning machine and meta-cognitive learning. The work is published in Neurocomputing.
 ~~~
 
@@ -38,7 +38,7 @@ Designed and developed several innovative machine learning algorithms for regres
 Participated in the Audience Demography Estimation project which uses machine learning models to predict audience demography based on users’ browsing logs for targeted advertising.
 ~~~
 
-- 08\/2015-12\/2015, *Teaching Assistant*, Nanyang Technological Univeristy, Singapore\n
+- 08\/2015-12\/2015, *Teaching Assistant*, Nanyang Technological University, Singapore\n
 ~~~
 Performed grading, supervised lab sessions, evaluated final presentations for courses in EEE undergraduate programs in Electric Field, Magnetic Field, Transformer, and Electrical Motor.
 ~~~
@@ -56,7 +56,7 @@ Performed grading, supervised lab sessions, evaluated final presentations for co
 - Basic: C, C++, HTML, JavaScript, Scala
 
 == Interests
-Reading, Travelling, Playing basketball, Swimming, Fitness.
+Reading, Traveling, Playing basketball, Swimming, Fitness.
 
 ~~~
 Please feel free to [nickzylove@gmail.com contact me].
