@@ -4,8 +4,10 @@
 ~~~
 {}{img_left}{zy.jpg}{Not Available}{WIDTHpx}{300}{index.html}
 [nickzylove@gmail.com Yong Zhang] \[[http://nickyongzhang.github.io/cv.pdf CV]\]\n
-I am currently working as a Research Scientist for Amazon.com. I have rich experience in e-commerce industry and online advertising.
-I am experienced in developing advanced machine learning models for Natural Language Understanding (NUL) tasks (eg. text classification, sentiment analysis, document summarization).
+- I am currently working as a Research Scientist for Amazon.com. I have rich experience in e-commerce industry and online advertising.
+- I am experienced in developing advanced machine learning models for Natural Language Understanding (NUL) tasks 
+(eg. text classification, sentiment analysis, document summarization), recommendation tasks, Ads performance estimation tasks, etc.
+- I have a lot of hands on experience in developing deep learning models using tensorflow, pytorch
 
 
 == Contact
@@ -22,7 +24,9 @@ Reading, Travelling, Playing basketball, Swimming, Fitness.
 
 *03/2018*: My PhD degree is conferred.
 
-*06/2017*: I joined GroupM as a Data Scientist.
+*07/2017*: I joined GroupM as a Data Scientist.
+
+*07/2017*: I submitted my Phd thesis and graduated from Nanyang Technological University.
 
 ~~~
 {}{raw}
