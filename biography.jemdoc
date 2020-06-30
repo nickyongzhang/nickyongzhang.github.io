@@ -6,22 +6,36 @@
 - *B.Eng.*, School of Electrical Engineering and Automation, Zhejiang University, China; GPA – 3.88/4.0, 9\/2009-7\/2013.\n
 
 == Experience
+- *Research Scientist*, Amazon, Seattle\n
+~~~
+- Owned private brands recommendation at detail pages project. One product of the project contributes ~$70 million annualized Amazon order product sales in US.
+- Owned ads performance models of Amazon internal advertisers. The project enables Amazon private brands products to exit common sponsored product auction so they do not directly compete against external advertisers.
+- Main contributor of private brands recommendation at search pages project. The project contributes over $128 million annualized order product sales in US for Amazon private brands.
+~~~
+
+- *Data Scientist*, Shopee, Singapore\n
+~~~
+- Developed Unique User Identification System - a graph-based identity management system that link accounts belonging to the same person, aimed at fraud detection, credit scoring, marketing, etc.
+- Was in charge of Categorization Recommendation Project - an automatic system making category suggestions to sellers when listing products. The model is deep learning-based and serves up to 2m calls per day in TW market alone.
+~~~
+
+- *Data Scientist*, GroupM, Singapore\n
+~~~
+- Developed mPID in-house solution - the foundational cross-device and cross-platform consumer identity management system that ties individual’s identities across devices into a consumer ID for audience re targeting across all media.
+- Worked on Consumer Insights Project - the bridge connecting research and marketing whose purpose is to understand and interpret non-obvious mindsets, desires, and motivates that trigger consumers’ attitudes and actions towards a brand which aims to enhance marketing effectiveness and increase sales for mutual benefit.
+~~~
+
 - *PhD researcher*, Nanyang Technological University\n
 ~~~
 Designed and developed several innovative machine learning algorithms for regression and classification with specific applications in natural language processing tasks.
 - Developed an algorithm named Multi-view Convolutional Neural Network and applied to multi-document summarization. The work is published in IEEE Trans. on Cybernetics.
 - Proposed an innovative pooling strategy for Convolutional Neural Network based on attention mechanisim and applied to sentence classification. The work is published in Inforamtion Sciences.
 - Designed an active learning model based on extreme learning machine and meta-cognitive learning. The work is published in Neurocomputing.
-- Familiar with keras, theano, tensorflow.
 ~~~
 
 - *Intern*, GroupM(Largest Media Investment Company across the world)\n
 ~~~
 Participated in the Audience Demography Estimation project which uses machine learning models to predict audience demography based on users’ browsing logs for targeted advertising.
-- Built web crawler to parse webpages and scrape information.
-- Built feature representation models.
-- Employed various advanced estimation models to predict audience demography attributes, (i.e., gender, age, house income).
-- Performed ETL for large volumes of online event-level (user-level) data for data cleansing and preparation.
 ~~~
 
 - *Teaching Assistant*, Nanyang Technological Univeristy\n
@@ -37,9 +51,9 @@ Performed grading, supervised lab sessions, evaluated final presentations for co
 - Texas Instruments Scholarship, 2011\n 
 - Sichuan Province Excellent Student Leader, 2009\n
 
-== Programming
-- Adept: Python, R   
-- Basic: C, C++, HTML, SQL, Hive
+== Skills
+- Adept: Python, R, SQL, Pyspark, Tensorflow, Pytorch
+- Basic: C, C++, HTML, JavaScript, Scala
 
 ~~~
 Please feel free to [yzhang067@e.ntu.edu.sg contact me].
